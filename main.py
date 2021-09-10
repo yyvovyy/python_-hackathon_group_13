@@ -1,3 +1,8 @@
+# TEAM MEMBERS:
+- JACK VAN VLECK
+- YVONNE WU
+- ALFREDO SONE
+
 # DEFINE ROMAN TO INT FUNCION:
 def roman_to_int(sample):
 
