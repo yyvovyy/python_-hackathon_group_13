@@ -1,10 +1,3 @@
-# DEFINE REMINDERS FUNCION:
-def reminder(number, divisor):
-    ans         = {}
-    ans["q"]    = number // divisor
-    ans["r"]    = number % divisor
-    return ans
-
 # DEFINE ROMAN TO INT FUNCION:
 def roman_to_int(sample):
 
